@@ -1,0 +1,10 @@
+# Personal settings (postal codes)
+raspberry-pi/config.py
+
+# Recorded API responses — kept locally for backtesting
+raspberry-pi/snapshots/
+
+raspberry-pi/.venv/
+__pycache__/
+*.pyc
+.DS_Store

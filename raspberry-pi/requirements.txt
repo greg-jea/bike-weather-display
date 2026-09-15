@@ -1,0 +1,6 @@
+requests>=2.31.0
+pillow
+# Raspberry Pi only (display + backlight)
+adafruit-circuitpython-rgb-display
+adafruit-blinka
+RPi.GPIO
